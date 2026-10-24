@@ -1,0 +1,24 @@
+
+============================================================
+REGISTRO DE VUELOS - SISTEMA DE GESTIÓN AEROPORTUARIA
+============================================================
+Código de vuelo    : VL664
+Aerolínea          : Copa
+Destino            : Panamá
+Hora de salida     : 20:10
+Puerta de abordaje : Puerta 1
+Estado             : PROGRAMADO
+Pasajeros          : 10
+Capacidad          : 100
+Ocupación          : 10%
+------------------------------------------------------------
+Código de vuelo    : VL597
+Aerolínea          : Volaris
+Destino            : Mexico
+Hora de salida     : 10:50
+Puerta de abordaje : Puerta 4
+Estado             : FINALIZADO
+Pasajeros          : 100
+Capacidad          : 200
+Ocupación          : 50%
+------------------------------------------------------------
